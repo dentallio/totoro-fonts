@@ -26,5 +26,21 @@
     {
         "url": "https://dentallio.github.io/totoro-fonts/nhicard_1041116.pdf",
         "name": "健保卡格式"
+    },
+    {
+        "url": "https://dentallio.github.io/totoro-fonts/console_web_api_1131001.pdf",
+        "name": "控制軟體6.0主控台API"
+    },
+    {
+        "url": "https://dentallio.github.io/totoro-fonts/console_user_guide_1130801.pdf",
+        "name": "控制軟體6.0主控台操作手冊"
+    },
+    {
+        "url": "https://dentallio.github.io/totoro-fonts/console_setup_guide_1130801.pdf",
+        "name": "控制軟體6.0主控台安裝手冊"
+    },
+    {
+        "url": "https://dentallio.github.io/totoro-fonts/biz_logic_web_api_1131001.pdf",
+        "name": "控制軟體6.0業務端Web API"
     }
 ]
